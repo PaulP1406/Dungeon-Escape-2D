@@ -1,4 +1,3 @@
-# Dungeon-Escape-2D
 # Dungeon Escape game project
 
 The game is built using plain Java and external libraries. It focuses on the story of a Prisoner who has to escape a dungeon with ghost chasing him through out the map, by collecting skulls and chest objects around the map. In order to beat the game, you can pick up powerups such as extra hp and speed up boots that are randomly placed in the map.
